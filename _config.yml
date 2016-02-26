@@ -1,5 +1,5 @@
 # Site settings
-title: Boilerplate
+title: Rommell's Boilerplate
 tagline: Boilerplate code for hosting a static holding page on GitHub pages
 
 url: "" # the base hostname & protocol for your site
@@ -9,12 +9,12 @@ color-primary: "#263238"
 
 # contact
 author:
-  name: Dan Buckland
-  url: http://github.com/danbuckland
+  name: Rommell Allen
+  url: http://github.com/neoremz
 
-twitter_username: danbuckland
-github_username:  danbuckland
-github_url: "https://github.com/danbuckland/jekyll-holding-page-boilerplate"
+twitter_username: neoremz
+github_username:  neoremz
+github_url: "https://github.com/NeoRemz/rommell.site"
 
 # Others
 markdown: redcarpet
